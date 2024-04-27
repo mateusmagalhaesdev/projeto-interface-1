@@ -70,6 +70,12 @@ button{
     transition: color 0.2s ease-in-out;
 }
 
+.cta-login:hover{
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.185);
+    transition: color 0.2s ease-in-out;
+    color: #5865f2;
+}
+
 nav button{
     border-radius: 28px;
     font-size: 14px;
